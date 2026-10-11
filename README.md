@@ -19,6 +19,6 @@
 - **Languages:** Python, Java, SQL, Bash
 - **Tools:** AWS, Git, GitHub, Linux
 - **Homelab:** Break it. Fix it. Document it.
-- **Off screen:** Gym & Food
+- **Off screen:** Gym, Food & Code
 
 </details>
