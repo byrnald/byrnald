@@ -10,7 +10,7 @@
 <details>
 <summary>About me — text version</summary>
 
-**Byron Aldas** — IT, cloud & curiosity. Always building something.
+I'm **Byron Aldas** i'm into IT, cloud & curiosity. Always building something.
 
 - **Education:** Information Technology · DCIM minor
 - **University:** Rutgers University
